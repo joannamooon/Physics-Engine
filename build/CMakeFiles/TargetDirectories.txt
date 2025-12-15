@@ -1,0 +1,4 @@
+/Users/joannamoon/Desktop/physics engine/Physics-Engine/build/CMakeFiles/physics_engine_sample.dir
+/Users/joannamoon/Desktop/physics engine/Physics-Engine/build/CMakeFiles/physics_engine_sfml.dir
+/Users/joannamoon/Desktop/physics engine/Physics-Engine/build/CMakeFiles/edit_cache.dir
+/Users/joannamoon/Desktop/physics engine/Physics-Engine/build/CMakeFiles/rebuild_cache.dir
