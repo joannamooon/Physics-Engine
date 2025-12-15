@@ -1,5 +1,7 @@
 # C++ Physics Engine 🧱🕹️
 
+![physics engine image](physics_image.png)
+
 A **modular, extensible 2D platformer engine** built entirely in C++.
 This project serves as a sandbox for building physics-based games with editable levels, real-time simulation, and full source access — like a lightweight, code-first Unity.
 
